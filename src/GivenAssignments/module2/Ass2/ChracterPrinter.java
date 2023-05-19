@@ -1,4 +1,4 @@
-package GivenAssignments.secondModule.Ass2;
+package GivenAssignments.module2.Ass2;
 
 public class ChracterPrinter {
     public static void main(String[] args) {

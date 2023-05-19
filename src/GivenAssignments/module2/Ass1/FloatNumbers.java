@@ -1,4 +1,4 @@
-package GivenAssignments.secondModule.Ass1;
+package GivenAssignments.module2.Ass1;
 
 import java.util.ArrayList;
 import java.util.List;

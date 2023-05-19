@@ -1,4 +1,4 @@
-package GivenAssignments.secondModule.Ass3;
+package GivenAssignments.module2.Ass3;
 
 import java.util.Random;
 

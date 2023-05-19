@@ -1,4 +1,4 @@
-package GivenAssignments.firstModule.thirdAss;
+package GivenAssignments.module1.thirdAss;
 
 import java.util.Scanner;
 

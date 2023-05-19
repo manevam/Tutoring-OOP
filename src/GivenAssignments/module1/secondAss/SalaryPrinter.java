@@ -1,4 +1,4 @@
-package GivenAssignments.firstModule.secondAss;
+package GivenAssignments.module1.secondAss;
 
 public class SalaryPrinter {
     public static void main(String[] args) {
